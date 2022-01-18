@@ -1,0 +1,16 @@
+## Author: Mailbox - Ysondre US
+## Interface: 60100
+## Title:|cff6666ffT|r|cff9966ffa|r|cffcc66ffl|r|cffff66ffi|r
+## Notes: Helps compare gear to see what is better for your spec, depending on assigned stat weights.
+## SavedVariables: TaliDB1
+## OptionalDeps: LibStub, CallbackHandler-1.0
+
+#@no-lib-strip@
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+#@end-no-lib-strip@
+
+embeds.xml
+
+Tali.lua
+TaliTable.lua
