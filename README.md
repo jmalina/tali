@@ -4,4 +4,4 @@ A simple UI addon that computes the relative value of an item based on your curr
 
 I wrote this back in 2015 or so and have kept it working since. I've never released it publicly till now. It's simple and works. Put all these files into a folder named "~Tali" in your world of warcraft add-on folder mine is something like this:
 
-K:\Program Files (x86)\Battle.net\World of Warcraft\_retail_\Interface\AddOns\~Tali
+K:\Program Files (x86)\Battle.net\World of Warcraft\_retail_\Interface\AddOns\\~Tali
